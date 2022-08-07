@@ -1,0 +1,2 @@
+# gynregalos
+Static gynregalos
